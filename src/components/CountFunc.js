@@ -4,6 +4,7 @@
 // 這段可以合併上列寫成同一行
 // import { useState } from 'react'
 // 合併寫法 . { useState } : 為了不寫React.useState那麼長寫useState就好
+//沒引入useState就不可用
 import React, { useState } from 'react'
 
 function CountFunc() {

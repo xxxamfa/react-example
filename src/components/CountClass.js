@@ -1,4 +1,4 @@
-// 必引用 . 因用到Component
+// 必引用 . 因要繼承React.Component
 import React from 'react'
 
 // class為react元件所以要繼承自React.Component
